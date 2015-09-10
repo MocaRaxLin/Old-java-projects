@@ -1,0 +1,12 @@
+# Blender MTL File: 'QueenChessWithTexture.blend'
+# Material Count: 1
+
+newmtl Material
+Ns 194.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.320000 0.320000 0.320000
+Ks 0.300000 0.300000 0.300000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd /home/sword/sword/Java OpenGL/texture/WoodFine0003_thumblarge.jpg
